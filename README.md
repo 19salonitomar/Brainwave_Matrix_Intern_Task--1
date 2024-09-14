@@ -1,6 +1,6 @@
 # Fake News Detection Using Machine Learning
 
-This project aims to classify news articles as either 'real' or 'fake' using machine learning techniques in Python. The goal is to help mitigate the spread of misinformation and improve the accuracy of news information.
+This project aims to detect fake news using machine learning techniques in Python. The spread of fake news can lead to significant societal issues, including misinformation, social conflicts, and the erosion of trust. Our goal is to create a model that can classify news articles as either 'real' or 'fake' to help mitigate these problems.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install pandas numpy scikit-learn nltk matplotlib seaborn
-
+```
 
 ## Contributing
 
